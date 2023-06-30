@@ -34,7 +34,8 @@ jobs:
 ```
 
 ### Advanced Usage
-The `options` argument exists to allow you to pass options to the audit command, just like you would locally:
+By default, you can add he ignored CVE into the standard `.bundler-audit.yml` as described [here](https://github.com/rubysec/bundler-audit#configuration-file).
+Moreover, the `options` argument exists to allow you to pass options to the audit command, just like you would locally:
 
 ```yaml
 name: Bundler Audit
