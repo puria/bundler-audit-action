@@ -4,6 +4,14 @@
 
 [Full Changelog](https://github.com/andrewmcodes/bundler-audit-action/compare/v0.1.0...HEAD)
 
+
+## [0.2.0](https://github.com/andrewmcodes/bundler-audit-action/tree/v0.2.0)
+
+  - Added the ability to pass arguments to the `bundle audit check` command ([PR#5](https://github.com/andrewmcodes/bundler-audit-action/pull/5), [doc](https://github.com/puria/bundler-audit-action#advanced-usage)).
+  - If present, the `.bundler-audit.yml` is read ([PR#5](https://github.com/andrewmcodes/bundler-audit-action/pull/5), [doc](https://github.com/puria/bundler-audit-action#advanced-usage)).
+
+[Full Changelog](https://github.com/andrewmcodes/bundler-audit-action/compare/v0.1.0...v0.2.0)
+
 **Merged pull requests:**
 
 - Fix issue with the changelog action and update the changelog [\#4](https://github.com/andrewmcodes/bundler-audit-action/pull/4) ([andrewmcodes](https://github.com/andrewmcodes))
